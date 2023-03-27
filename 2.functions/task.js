@@ -22,7 +22,6 @@ function summElementsWorker(...arr) {
     sum += arr[i];
   }
   return sum;
-
 }
 
 function differenceMaxMinWorker(...arr) {
@@ -66,7 +65,6 @@ function averageEvenElementsWorker(...arr) {
     }
   }
   return (sumEvent / countEvent);
-
 }
 
 function makeWork (arrOfArr, func) {
