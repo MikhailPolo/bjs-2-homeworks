@@ -1,4 +1,4 @@
-"use strick";
+"use strick"; 
 
 function getArrayParams(...arr) {
   let min = Math.min(...arr);
